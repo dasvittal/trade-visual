@@ -1,0 +1,41 @@
+body {
+    font-size: .85rem;
+    background: #212832;
+}
+
+.navbar {
+    background-color: #313334;
+}
+
+.navbar a {
+    color: #cecece;
+    font-weight: 500;
+}
+
+.nav-link:hover,
+.nav-link:focus,
+.nav-link.active {
+    color: #e6c431;
+}
+
+.container {
+    color: #fff;
+}
+
+tr:last-child {
+    font-weight: bold;
+}
+
+.form-control {
+    width: auto;
+    display: inline-block;
+}
+
+table th {
+    color: #d1d1d1;
+}
+
+table td {
+    text-align: right;
+    color: #d1d1d1;
+}
