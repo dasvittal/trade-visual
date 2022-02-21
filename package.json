@@ -1,8 +1,8 @@
 {
-  "name": "op-trader",
+  "name": "trader-visual",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
     "start": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
